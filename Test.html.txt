@@ -1,6 +1,0 @@
-<html>
-<head><title>Usecase</title><head>
-<body>
-<h1>Vo dekhne mai kaisi sidhi sadhi lagti</h1>
-</body>
-</html>
